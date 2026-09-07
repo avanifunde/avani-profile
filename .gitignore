@@ -1,2 +1,4 @@
 dist/
 site.tar.gz
+netlify-publish
+.netlify-worker-source.mjs
